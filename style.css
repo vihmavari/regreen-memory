@@ -149,6 +149,10 @@ body {
   /* прячем обратную сторону */
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
+  /* выравнивание изображения по центру */		  
+  display: flex;
+  justify-content: center;
+  align-items: center;
   /* абсолютное позиционирование */
   position: absolute;
   top: 0;
@@ -156,15 +160,16 @@ body {
   /* размеры и отступ */
   width: 100%;
   height: 100%;
-  padding: 20px;
+  padding: 5px;
 }
 
 /* настройки изображения на лицевой и обратной стороне */
 .card .front img, .card .back img {
   /* картинка занимает всю ширину */
   max-width: 100%;
+
   /* отображаем как блочный элемент, без отступов */
-  display: block;
+  display: inline-block;
   margin: 0 auto;
   max-height: 100%;
 }
