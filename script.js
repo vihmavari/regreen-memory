@@ -148,7 +148,7 @@
 				frag += '<div class="card" data-id="'+ v.id +'"><div class="inside">\
 				<div class="front"><img src="'+ v.img +'"\
 				alt="'+ v.name +'" /></div>\
-				<div class="back"><img src="src/back.jpg"\
+				<div class="back"><img src="src/transparent/back2.png"\
 				alt="Codepen" /></div></div>\
 				</div>';
 			});
@@ -163,43 +163,43 @@
 			// название
 			name: "tea",
 			// адрес картинки
-			img: "src/tea.jpg",
+			img: "src/transparent/tea.png",
 			// порядковый номер пары
 			id: 1,
 		},
 		{
 			name: "cup",
-			img: "src/cup.jpg",
+			img: "src/transparent/cup.png",
 			id: 2
 		},
 		{
 			name: "razor",
-			img: "src/razor.jpg",
+			img: "src/transparent/razor.png",
 			id: 3
 		},
 		{
 			name: "rice",
-			img: "src/rice.jpg",
+			img: "src/transparent/rice.png",
 			id: 4
 		}, 
 		{
 			name: "shampoo",
-			img: "src/shampoo.jpg",
+			img: "src/transparent/shampoo.png",
 			id: 5
 		},
 		{
 			name: "brush",
-			img: "src/brush.jpg",
+			img: "src/transparent/brush.png",
 			id: 6
 		},
 		{
 			name: "cooking-paper",
-			img: "src/cooking-paper.jpg",
+			img: "src/transparent/cooking-paper.png",
 			id: 7
 		},
 		{
 			name: "bag",
-			img: "src/bag.jpg",
+			img: "src/transparent/bag.png",
 			id: 8
 		},
 	];
@@ -209,43 +209,43 @@
 			// название
 			name: "tea",
 			// адрес картинки
-			img: "src/eco-tea.jpg",
+			img: "src/transparent/eco-tea.png",
 			// порядковый номер пары
 			id: 1,
 		},
 		{
 			name: "cup",
-			img: "src/eco-cup.jpg",
+			img: "src/transparent/eco-cup.png",
 			id: 2
 		},
 		{
 			name: "razor",
-			img: "src/eco-razor.jpg",
+			img: "src/transparent/eco-razor.png",
 			id: 3
 		},
 		{
 			name: "rice",
-			img: "src/eco-rice.jpg",
+			img: "src/transparent/eco-rice.png",
 			id: 4
 		}, 
 		{
 			name: "shampoo",
-			img: "src/eco-shampoo.jpg",
+			img: "src/transparent/eco-shampoo.png",
 			id: 5
 		},
 		{
 			name: "brush",
-			img: "src/eco-brush.jpg",
+			img: "src/transparent/eco-brush.png",
 			id: 6
 		},
 		{
 			name: "cooking-paper",
-			img: "src/eco-cooking-paper.jpg",
+			img: "src/transparent/eco-cooking-paper.png",
 			id: 7
 		},
 		{
 			name: "bag",
-			img: "src/eco-bag.jpg",
+			img: "src/transparent/eco-bag.png",
 			id: 8
 		},
 	];
