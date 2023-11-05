@@ -161,35 +161,35 @@
 	var cards1 = [
 		{	
 			// название
-			name: "php",
+			name: "tea",
 			// адрес картинки
-			img: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/297px-PHP-logo.svg.png",
+			img: "src/tea.jpg",
 			// порядковый номер пары
 			id: 1,
 		},
 		{
-			name: "css3",
-			img: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/160px-CSS3_logo.svg.png",
+			name: "cup",
+			img: "src/cup.jpg",
 			id: 2
 		},
 		{
-			name: "html5",
-			img: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/160px-HTML5_logo_and_wordmark.svg.png",
+			name: "razor",
+			img: "src/razor.jpg",
 			id: 3
 		},
 		{
-			name: "jquery",
-			img: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/440px-JQuery-Logo.svg.png",
+			name: "rice",
+			img: "src/rice.jpg",
 			id: 4
 		}, 
 		{
-			name: "javascript",
-			img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/160px-Unofficial_JavaScript_logo_2.svg.png",
+			name: "shampoo",
+			img: "src/shampoo.jpg",
 			id: 5
 		},
 		{
-			name: "node",
-			img: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/262px-Node.js_logo.svg.png",
+			name: "brush",
+			img: "src/brush.jpg",
 			id: 6
 		},
 		{
@@ -227,35 +227,35 @@
 	var cards2 = [
 		{	
 			// название
-			name: "php",
+			name: "tea",
 			// адрес картинки
-			img: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/297px-PHP-logo.svg.png",
+			img: "src/eco-tea.jpg",
 			// порядковый номер пары
 			id: 1,
 		},
 		{
-			name: "css3",
-			img: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/160px-CSS3_logo.svg.png",
+			name: "cup",
+			img: "src/eco-cup.jpg",
 			id: 2
 		},
 		{
-			name: "html5",
-			img: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/160px-HTML5_logo_and_wordmark.svg.png",
+			name: "razor",
+			img: "src/eco-razor.jpg",
 			id: 3
 		},
 		{
-			name: "jquery",
-			img: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/440px-JQuery-Logo.svg.png",
+			name: "rice",
+			img: "src/eco-rice.jpg",
 			id: 4
 		}, 
 		{
-			name: "javascript",
-			img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/160px-Unofficial_JavaScript_logo_2.svg.png",
+			name: "shampoo",
+			img: "src/eco-shampoo.jpg",
 			id: 5
 		},
 		{
-			name: "node",
-			img: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/262px-Node.js_logo.svg.png",
+			name: "brush",
+			img: "src/eco-brush.jpg",
 			id: 6
 		},
 		{
