@@ -137,7 +137,7 @@ body {
   transform-style: preserve-3d;
   transition: 0.4s ease-in-out;
   /* у лицевой стороны будет белый фон */
-  background: #addfac;
+  background: #9c9;
 }
 
 
@@ -199,21 +199,21 @@ body {
 @keyframes matchAnim {
   0% {
   /*  зелёный фон */
-    background: #bcffcc;
+    background: #3f0;
   }
   100% {
   /*  белый фон  */
-    backgroud: #addfac;
+    backgroud: #9c9;
   }
 }
 
 /* и делаем то же самое для движка WebKit */
 @-webkit-keyframes matchAnim {
   0% {
-    background: #bcffcc;
+    background: #3f0;
   }
   100% {
-    background: #addfac;
+    background: #9c9;
   }
 }
 
