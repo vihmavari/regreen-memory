@@ -11,6 +11,7 @@
 			this.$modal = $(".modal");
 			this.$overlay = $(".modal-overlay");
 			this.$restartButton = $("button.restart");
+			this.hideModal();
 			// собираем из карточек массив — игровое поле
 			this.cardsArray = $.merge(cards1, cards2);
 			// перемешиваем карточки
@@ -148,7 +149,7 @@
 				frag += '<div class="card" data-id="'+ v.id +'"><div class="inside">\
 				<div class="front"><img src="'+ v.img +'"\
 				alt="'+ v.name +'" /></div>\
-				<div class="back"><img src="src/transparent/back2.png"\
+				<div class="back"><img src="src/transparent/back3.png"\
 				alt="Codepen" /></div></div>\
 				</div>';
 			});
