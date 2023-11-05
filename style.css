@@ -67,7 +67,7 @@ body {
   background: linear-gradient(#4d4d4d, #222);
   border: 1px solid #222;
   border-radius: 5px;
-  color: #addfac;
+  color: white;
   text-shadow: 0px 1px 0 black;
   cursor: pointer;
 }
@@ -137,7 +137,7 @@ body {
   transform-style: preserve-3d;
   transition: 0.4s ease-in-out;
   /* у лицевой стороны будет белый фон */
-  background: white;
+  background: #addfac;
 }
 
 
@@ -203,7 +203,7 @@ body {
   }
   100% {
   /*  белый фон  */
-    backgroud: white;
+    backgroud: #addfac;
   }
 }
 
@@ -213,7 +213,7 @@ body {
     background: #bcffcc;
   }
   100% {
-    background: white;
+    background: #addfac;
   }
 }
 
