@@ -149,8 +149,8 @@
 				frag += '<div class="card" data-id="'+ v.id +'"><div class="inside">\
 				<div class="front"><img src="'+ v.img +'"\
 				alt="'+ v.name +'" /></div>\
-				<div class="back"><img src=""\
-				alt="hiii :3" /></div></div>\
+				<div class="back"><img src="src/back"\
+				alt="regreen" /></div></div>\
 				</div>';
 			});
 			// возвращаем собранный код
