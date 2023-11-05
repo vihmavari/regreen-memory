@@ -17,7 +17,6 @@
 			this.shuffleCards(this.cardsArray);
 			// и раскладываем их
 			this.setup();
-			this.reset();
 		},
 
 		// как перемешиваются карточки
