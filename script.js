@@ -202,7 +202,7 @@
 			img: "https://www.python.org/static/img/python-logo@2x.png",
 			id: 8
 		},
-		{
+/*		{
 			name: "rails",
 			img: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/425px-Ruby_On_Rails_Logo.svg.png",
 			id: 9
@@ -221,7 +221,7 @@
 			name: "wordpress",
 			img: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/440px-WordPress_logo.svg.png",
 			id: 12
-		},
+		},*/
 	];
 	
 	var cards2 = [
@@ -268,7 +268,7 @@
 			img: "https://www.python.org/static/img/python-logo@2x.png",
 			id: 8
 		},
-		{
+/*		{
 			name: "rails",
 			img: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/425px-Ruby_On_Rails_Logo.svg.png",
 			id: 9
@@ -287,7 +287,7 @@
 			name: "wordpress",
 			img: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/440px-WordPress_logo.svg.png",
 			id: 12
-		},
+		},*/
 	];
 	
 	// запускаем игру
